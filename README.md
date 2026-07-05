@@ -113,6 +113,19 @@ streamlit run app.py
 
 ---
 
+## Model File
+
+The trained `model.pkl` file is not included in this repository because it exceeds GitHub's web upload size limit.
+
+To generate it:
+
+1. Run `main.py`
+2. The trained model will be saved automatically in the `models` folder.
+
+## Live Demo
+
+https://house-price-prediction-system-018.streamlit.app
+
 ## 👨‍💻 Developed By
 
 **Amit Sharma**
