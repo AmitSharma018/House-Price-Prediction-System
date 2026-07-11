@@ -80,9 +80,29 @@ Random Forest gave the best performance among all models.
 
 ---
 
+# 🏠 House Price Prediction System
+
+![Banner](images/banner.png)
+
 ## 📷 Project Screenshots
 
-(Add screenshots here after uploading them.)
+### Home Page
+![Home Page](images/homepage1.png)
+
+### Input Form
+![Input Form](images/homepage2.png)
+
+### Prediction Result
+![Prediction](images/prediction.png)
+
+### Price Distribution
+![Price Distribution](images/price_distribution.png)
+
+### Living Area vs Price
+![Scatter Plot](images/living_area_vs_price.png)
+
+### Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
 
 ---
 
